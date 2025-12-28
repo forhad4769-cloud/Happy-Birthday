@@ -15,8 +15,6 @@ function MessageCard({ isActive }) {
 
   const message = `Dear Sanzida,
 
-Your personalized birthday message goes here.
-
 First of all, I am sorry I couldn't provide you with something amazing. I've tried my best to make you feel special through this. I don't know how you looked when you first 
 came to this beautiful world, but now when I look at you, I can tell you are the prettiest girl in the whole world in my eyes.
 
