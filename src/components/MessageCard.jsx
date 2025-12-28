@@ -13,19 +13,18 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `Dear Sanzida,
 
 Your personalized birthday message goes here.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+First of all, I am sorry I couldn't provide you with something amazing. I've tried my best to make you feel special through this. I don't know how you looked when you first 
+came to this beautiful world, but now when I look at you, I can tell you are the prettiest girl in the whole world in my eyes.
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+We can celebrate this special day over and over again throughout our lifetimes. I miss you today and every day. I love you, sweetheart. 
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— Forhad`;
 
   // Handle page transitions
   useEffect(() => {
