@@ -15,10 +15,10 @@ function MessageCard({ isActive }) {
 
   const message = `Dear Sanzida,
 
-First of all, I am sorry I couldn't provide you with something amazing. I've tried my best to make you feel special through this. I don't know how you looked when you first 
-came to this beautiful world, but now when I look at you, I can tell you are the prettiest girl in the whole world in my eyes.
+I’m sorry I couldn’t make it as amazing as you deserve. I really tried my best to make you feel special. 
+I don’t know what you looked like when you first came into this beautiful world, but when I look at you now, I know you’re the prettiest girl in the world.
 
-We can celebrate this special day over and over again throughout our lifetimes. I miss you today and every day. I love you, sweetheart. 
+I hope We can celebrate this special day over and over again throughout our lifetimes. I miss you today and every day. I love you, sweetheart. 
 
 Happy Birthday! 🎉
 
