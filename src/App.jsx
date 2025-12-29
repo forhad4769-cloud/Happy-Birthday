@@ -105,7 +105,7 @@ function App() {
             )}
           </h1>
           <p><p>
-  Sorry that I missed your birthday, but I promise you I'll not miss any of your birthdays
+  Sorry that I missed your birthday last year, but I promise you I'll not miss any of your birthdays
   again. Happy Birthday, my love. 💗
 </p>
 </p>
